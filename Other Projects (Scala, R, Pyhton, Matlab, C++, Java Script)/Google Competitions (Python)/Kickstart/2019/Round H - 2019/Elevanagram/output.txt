@@ -1,0 +1,6 @@
+case 0: True
+case 1: True
+case 2: False
+case 3: True
+case 4: True
+case 5: False

@@ -1,0 +1,5 @@
+I needed this for my mountaineering trip in Patagonia.
+
+We had a sattelite communication device (from the brand "Garmin") capable of sending and receiving text messages (emails). But we needed very specific weather forecasts. My idea was to set up my google account to check for incoming mails every 10 minutes and to respond with the fetched and formatted weather data which was so important for us.
+Fetching the data was no problem. But it appeared, that Garmin does not allow direct mails to its sattelite devices. (In order to protect the people from receiving expensive spam... Veery expensive spam!) In turn, one can set up a website (with a "cryptographic" and secret web adress), where a form allows to fill in the 150 signs, which would then be transfered to the communication device as an "email".
+In the end, I did not have enough time to let the website's form being filled out automatically. But we needed the help of friends to copy the formatted weather forecast into the form..

@@ -1,0 +1,1 @@
+In my Master thesis, the double Laplace Equation appeared. Here, I solved it as a FEM-exercise.

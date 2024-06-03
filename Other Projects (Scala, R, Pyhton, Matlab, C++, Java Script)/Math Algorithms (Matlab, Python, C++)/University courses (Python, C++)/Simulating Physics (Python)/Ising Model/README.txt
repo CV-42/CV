@@ -1,0 +1,2 @@
+The ising model is for magnetic dipoles and how the align to each other.
+The simulation starts with a random configuration (first picture). It then calculates and shows a final configuration of magnetic orientations. (Second picture.)

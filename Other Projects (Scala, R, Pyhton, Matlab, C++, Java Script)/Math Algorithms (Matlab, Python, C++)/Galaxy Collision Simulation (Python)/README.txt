@@ -1,0 +1,1 @@
+A red and a blue galaxy collide. The movie shows a very small example.

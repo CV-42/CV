@@ -1,0 +1,1 @@
+In my studies, at work, for an NGO, and for fun I wrote various programs. They are collected here.
