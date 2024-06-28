@@ -1,0 +1,4 @@
+b1.intersection(b2) = {}
+b2-b3 = {'Cl.NCc1ccc[nH]1', 'Cl.Nc1ccc2cccnc2c1'}
+b3-b2 = set()
+b3.intersection(b1) = set()
